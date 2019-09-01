@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">validation</string>
+    <string name="cpf">CPF</string>
+    <string name="tvCPF">Digite o CPF</string>
+    <string name="nasc">Data de nascimento</string>
+    <string name="tvNasc">Digite a data de nascimento</string>
+    <string name="btCPF">Validar CPF</string>
+    <string name="btNasc">Validar data</string>
+    <string name="msgInvCPF">CPF inválido</string>
+    <string name="msgValCPF">CPF válido</string>
+    <string name="msgInvData">Menor de 18</string>
+    <string name="msgValData">18 ou maior</string>
+    <string name="senha">Senha</string>
+    <string name="btSenha">Validar senha</string>
+    <string name="msgInvSenha">Senha inválida</string>
+    <string name="msgValSenha">Senha válida</string>
+</resources>
